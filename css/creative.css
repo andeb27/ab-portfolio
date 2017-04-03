@@ -282,6 +282,7 @@ header .header-content .header-content-inner p {
 }
 .text-primary {
   color: #F05F40;
+  background-color: #F05F40;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
